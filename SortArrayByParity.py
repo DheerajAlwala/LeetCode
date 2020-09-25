@@ -2,8 +2,7 @@
 #Input: [3,1,2,4]
 #Output: [2,4,3,1]
 #The outputs [4,2,3,1], [2,4,1,3], and [4,2,1,3] would also be accepted.
-
-You may return any answer array that satisfies this condition.
+#You may return any answer array that satisfies this condition.
 class Solution(object):
     def sortArrayByParity(self, A):
         """
